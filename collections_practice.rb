@@ -1,4 +1,3 @@
-Collections Practice
 
 array=[1,3,7,5,2]
 words=["hello","hints","typing","i"]
